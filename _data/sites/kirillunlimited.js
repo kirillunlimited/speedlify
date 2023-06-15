@@ -12,11 +12,5 @@ module.exports = {
 		"https://kirillunlimited.com/about/",
 		"https://kirillunlimited.com/contact/",
 		"https://kirillunlimited.com/blog/",
-		"https://kirillunlimited.com/blog/hello-world/",
-		"https://kirillunlimited.com/blog/enhanced-keyboard-navigation/",
-		"https://kirillunlimited.com/blog/dev-env/",
-		"https://kirillunlimited.com/blog/join-the-dark-side/",
-		"https://kirillunlimited.com/blog/full-stack-designers-will-take-over-the-world/",
-		"https://kirillunlimited.com/blog/stay-hungry/"
 	]
 };
