@@ -4,7 +4,7 @@ module.exports = {
   skip: false,
   options: {
     runs: 1,
-    frequency: 60 * 24, // 24 hours
+    frequency: 60 * 12, // 12 hours
     freshChrome: "site",
   },
   urls: ["https://kirillunlimited.com/"],
